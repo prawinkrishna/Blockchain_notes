@@ -24,6 +24,6 @@ Ecosystem: 23.33%
 
 Vesting
 
-    IEO tokens were unlocked after the sale ended.
-    ½ of private sale tokens unlocked at listing, ½ vested after 6 months.
-    Team tokens were locked for 1 year with 3.2% released quarterly through 2022.
+ IEO tokens were unlocked after the sale ended.
+ ½ of private sale tokens unlocked at listing, ½ vested after 6 months.
+ Team tokens were locked for 1 year with 3.2% released quarterly through 2022.
