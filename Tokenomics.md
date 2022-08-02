@@ -34,3 +34,45 @@ Vesting
     ½ of private sale tokens unlocked at listing, ½ vested after 6 months.
    Team tokens were locked for 1 year with 3.2% released quarterly through 2022.
  the remaining 2.5 billion MATIC tokens that aren’t in circulation yet, will be distributed over the next 4 years
+ 
+ 
+ 
+ TETHER(assets based)
+Tether (USDT) is a stablecoin
+layer 2
+current cirulation 66,307,627,907 USDT
+prices tied to a stable asset usd fiat currency
+
+other tokens
+Tether gold
+Tether euro
+Tether peso
+Tether yuan
+
+dont have blockchain uses etherum,tron, solana,algorand,avalanche, polygon.
+not mined and it is not decentralized.
+tether reserve contains
+  cash
+  cash equivalents (money market funds, U.S. Treasury bills)
+  commercial paper
+  corporate bonds
+  loans
+  other investments including digital currencies.
+not much transparancy.
+
+
+SOLANA
+Current Circulating supply is  346,520,371 SOL.
+layer 1.
+Total supply: 100,000,000 SLIM (fixed)
+	solana-7d-price-graph
+Solana’s initial inflation is at 8%. This inflation rate will reduce 15% year on year until it settles on what Solana described as its ‘Long-term Inflation Rate’ of 1.5%.
+Rewards are distributed to validators proportional to their stake
+
+Token distribution
+25% fund raising
+20% team(100% locked for 6 months 10% unlock each month)
+5% advisor
+15 liquidity
+10 marketing , stacking reward 
+25% company reserves
