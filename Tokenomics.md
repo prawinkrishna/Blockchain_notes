@@ -30,8 +30,8 @@ Ecosystem: 23.33%
 
 Vesting
 
-    IEO tokens were unlocked after the sale ended.
-    ½ of private sale tokens unlocked at listing, ½ vested after 6 months.
+  IEO tokens were unlocked after the sale ended.
+   ½ of private sale tokens unlocked at listing, ½ vested after 6 months.
    Team tokens were locked for 1 year with 3.2% released quarterly through 2022.
  the remaining 2.5 billion MATIC tokens that aren’t in circulation yet, will be distributed over the next 4 years
  
@@ -42,6 +42,7 @@ Tether (USDT) is a stablecoin
 layer 2
 current cirulation 66,307,627,907 USDT
 prices tied to a stable asset usd fiat currency
+PoW or PoS security
 
 other tokens
 Tether gold
@@ -68,6 +69,7 @@ Total supply: 100,000,000 SLIM (fixed)
 	solana-7d-price-graph
 Solana’s initial inflation is at 8%. This inflation rate will reduce 15% year on year until it settles on what Solana described as its ‘Long-term Inflation Rate’ of 1.5%.
 Rewards are distributed to validators proportional to their stake
+Proof-of-History (PoH) timing mechanism
 
 Token distribution
 25% fund raising
@@ -76,3 +78,37 @@ Token distribution
 15 liquidity
 10 marketing , stacking reward 
 25% company reserves
+
+CARDANO
+
+will become Deflationary 2030
+inflation rate of 5.71% per year
+POS
+ADA token
+
+Token distribution
+
+ Public Sale: 25.9 billion ADA - (57.6%)
+Reserve: 13.9 billion ADA - (30.9%)
+IOHK: 2.46 billion ADA - (5.5%)
+EMURGO: 2.07 billion -  (4.6%)
+Cardano Foundation: 640 million ADA - (1.4%)
+
+layer 1 blockcahin
+total supply 45,000,000,000 ADA
+current supply 33,752,565,071 ADA
+Cardano validators  earn rewards transaction fees and staking reward.
+https://www.figment.io/resources/cardano-ada-tokenomics
+
+
+POLKADOT
+Inflation model 10% inflation per year.
+current supply 1,102,829,785 DOT
+nominated POS layer 0.
+
+token distribution
+50% allocated to token sale investors
+5% allocated to the 2019 private sale investors
+3.4% allocated to 2020 token sale investors
+11.6% retained by the Foundation for future fundraising efforts
+30% allocated to the Web 3 Foundation for immediate use to develop the Polkadot network and other undisclosed Foundation activities.
