@@ -1,0 +1,9 @@
+Hyperledger Fabric is a permissioned blockchain framework, with a modular architecture.It leverages container technology to host smart contract (Chaincode) which contains application logic.
+transaction proposal through the Fabric SDK, this proposal is sent to all Endorsing Peers.
+endorsing checks and verfify transaction and sent to client. client collects from all endors sent to orderer. orderer from a block.blocks are sent to committers checks the block and froom a ledger.
+membership service provideris a component that defines the rules.manages user IDs and authenticates clients who want to join the network.
+types of msp : local and channel.
+types of peers:endoursing,comminting,anchorleading.
+order is like consensus. types raft,solo,kafka,sbft.
+
+https://blog.clairvoyantsoft.com/hyperledger-fabric-components-and-architecture-b874b36c4af5
